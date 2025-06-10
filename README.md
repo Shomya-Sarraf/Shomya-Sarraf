@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=shomya-sarraf&label=Profile%20views&color=0e75b6&style=flat" alt="shomya-sarraf" />
 </p>
 
-- 🌱 I’m currently learning **HTML, C++, JavaScript, CSS**
+- 🌱 I’m currently learning **Reactjs , DSA in Java**
 
 - 📫 How to reach me: **shomyasarraf20@gmail.com**
 
